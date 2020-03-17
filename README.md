@@ -4,6 +4,6 @@
 
 **POST** `/api/v1/vision/`
 
-**data:** `{ "image": "<image uri>" }`
+**body:** `{ "image": "<image uri>" }`
 
 return list of objects on image or error
